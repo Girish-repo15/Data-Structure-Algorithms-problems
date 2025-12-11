@@ -1,2 +1,2 @@
-# Data-Structure-Algorithms-problems
+# Data-Structure-Algorithms-problems-in-Java
 Optimized DSA Programs easy to understand
